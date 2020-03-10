@@ -1,0 +1,9 @@
+C:\ded\Projects\DedSprite\bin\Debug\netstandard2.0\DedSprite.deps.json
+C:\ded\Projects\DedSprite\bin\Debug\netstandard2.0\DedSprite.dll
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\DedSprite.csprojAssemblyReference.cache
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\DedSprite.AssemblyInfoInputs.cache
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\DedSprite.AssemblyInfo.cs
+C:\ded\Projects\DedSprite\bin\Debug\netstandard2.0\DedSprite.pdb
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\DedSprite.dll
+C:\ded\Projects\DedSprite\obj\Debug\netstandard2.0\DedSprite.pdb
